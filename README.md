@@ -43,9 +43,7 @@
 
 ## 截图
 
-<img src="type/home.jpg" width="160px">
-<img src="type/auto.jpg" width="160px">
-<img src="type/user.jpg" width="160px">
+<img src="type/home.jpg" width="160px"> <img src="type/auto.jpg" width="160px"> <img src="type/user.jpg" width="160px">
 
 ## 联系方式
 
