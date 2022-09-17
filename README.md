@@ -6,7 +6,7 @@
 
 > 使用 `vue3 vue_cli vant` 作为 autojs 的界面，可以互相通讯。
 
->[vant 文档](https://vant-ui.github.io/vant/#/zh-CN/quickstart)
+>[vant 文档](https://vant-ui.github.io/vant/#/zh-CN/quickstart), [autoX 文档](http://doc.autoxjs.com/#/?id=%E7%BB%BC%E8%BF%B0)
 
 > 当然也可以用 react(Vue3真香) 之类的前端框架
 
@@ -17,7 +17,6 @@
 >一. `npm install`，
 
 >二. `npm run serve`，
-
 
 >三.在 VSCode 中 打开根目录 `autoWebview.js` 修改 `initUi('http://192.168.31.201:5666/#/')` vue cli 运行的局域网地址
 
@@ -44,9 +43,9 @@
 
 ## 截图
 
-<img src="type/home.jpg" width="300px">
-<img src="type/auto.jpg" width="300px">
-<img src="type/user.jpg" width="300px">
+<img src="type/home.jpg" width="160px">
+<img src="type/auto.jpg" width="160px">
+<img src="type/user.jpg" width="160px">
 
 ## 联系方式
 
